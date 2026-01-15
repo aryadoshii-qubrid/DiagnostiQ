@@ -199,19 +199,6 @@ Every interaction tracks and displays performance metrics to monitor API costs a
 
 *Cyberpunk aesthetic for night shift operators with enhanced contrast and reduced eye strain*
 
----
-
-## 📊 Performance Metrics
-
-Every analysis displays real-time telemetry:
-```
-🪙 1283 TOKENS  |  ⏱ 5.81s  |  ⚡ 255.69 T/s
-```
-
-**What This Means:**
-- **Tokens:** API usage (cost tracking)
-- **Latency:** Response time
-- **Throughput:** Processing speed
 
 ---
 
