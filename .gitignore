@@ -1,16 +1,13 @@
-# Python System Files
-__pycache__/
-*.py[cod]
-venv/
+# Security: Never upload API keys
 .env
 
-# Streamlit
-.streamlit/
-
-# Database & Local Assets
+# Database: Keep local history local
 *.db
-apex_industrial.db
-frontend/assets/
+*.sqlite3
 
-# OS Files
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system files (optional but good)
 .DS_Store
