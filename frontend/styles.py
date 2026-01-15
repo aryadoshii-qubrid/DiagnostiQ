@@ -209,4 +209,4 @@ def apply_custom_styles(mode="Light"):
             margin-right: 8px;
         }}
     </style>
-    """, unsafe_allow_html=True)
+    """, unsafe_allow_html=True) 
