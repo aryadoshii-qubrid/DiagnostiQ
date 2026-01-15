@@ -1,4 +1,4 @@
-# Security: Never upload API keys
+# Security
 .env
 
 # Environments: Keep these local
